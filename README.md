@@ -46,7 +46,7 @@
 <meta property="og:locale" content="en_US" />
 <meta property="og:type" content="website" />
 <meta property="og:title" content="Home - Digital Agency" />
-<meta property="og:description" content="Fastest And Most Lightweight WP Theme Create Amazing Business Websites Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Suspendisse et justo. Praesent mattis commodo augue. Morbi fringilla congue libero, ac malesuada vulputate pharetra. Get Started How can we help you? Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Suspendisse et justo. Praesent mattis commodo augue.​ &hellip; Home Read More &raquo;" />
+<meta property="og:description" content="Fastest And Most Lightweight  Create Amazing Business Websites . Get Started How can we help you? Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Suspendisse et justo. Praesent mattis commodo augue.​ &hellip; Home Read More &raquo;" />
 <meta property="og:url" content="https://websitedemos.net/agency-02/" />
 <meta property="og:site_name" content="Digital Agency" />
 <meta property="article:modified_time" content="2021-12-08T05:10:50+00:00" />
